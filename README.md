@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Food Choicer](https://github.com/esmaozgun/Food-Choicer)
 
-- 🌱 I’m currently learning **Dart, Flutter, Keycloak, C**
+- 🌱 I’m currently learning **Dart, Flutter, SQLite, Keycloak, C**
 
 - 📫 How to reach me **nuresma349@gmail.com**
 
