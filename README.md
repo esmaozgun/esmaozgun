@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esma</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Food Choicer](https://github.com/esmaozgun/Food-Choicer) and [Flutter Weather App](https://github.com/esmaozgun/Flutter-Weather-App) 
+- 🔭 I’m currently working on [Food Choicer](https://github.com/esmaozgun/Food-Choicer) 
 
 - 🌱 I’m currently learning **Dart, Flutter, SQLite, Keycloak, C**
 
